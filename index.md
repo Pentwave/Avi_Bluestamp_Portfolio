@@ -45,7 +45,7 @@ Have you ever wanted something that you could see your reflection in, check the 
 
 **Don't forget to replace the text below with the embedding for your milestone video. Go to Youtube, click Share -> Embed, and copy and paste the code to replace what's below.**
 
-<!---<iframe width="560" height="315" src="https://www.youtube.com/embed/CaCazFBhYKs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>-->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/R2RmPFGSYxQ?si=Y-LLg9F261IVvgS7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 My project is a device that can be used as a Mirror, a clock, a device to check the weather, and multiple other applications. Currently I've set up my Pi and linked the SSH, along with real VNC so im able to control the pi from a different device, Then I used terminal to help download the magicmirror code from Github.
 
