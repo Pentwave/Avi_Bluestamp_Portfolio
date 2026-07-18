@@ -20,6 +20,7 @@ Have you ever wanted something that you could see your reflection in, check the 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/DCdLccGf9gs?si=qfjP5l-cxYkhE8PN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+I've succeeded in mounting the mirror with Loctite glue after two attempts. The first attempt was trying to score the mirror with a knife but it turned out to be super difficult and resulted in making the glass scratched and ruined. The Second attempt would be to cut the glass with scissors which provbed to be even worse and almost ended up getting glass shrapnel on the floor. The third part was just taking it to  a cutting service and that part was the most successful, as the glass was cut neatly without any uneven ridges and fit the frame perfectly.
 
 <!---For your final milestone, explain the outcome of your project. Key details to include are:
 - What you've accomplished since your previous milestone
@@ -35,6 +36,7 @@ Have you ever wanted something that you could see your reflection in, check the 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2l-rQT5Aa_Y?si=sLmmUY-6b-E0UzIp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+I've currently accompllished installing a PIR sensor on my Rspberry pi 4 and successfully programming the code required to trigger the PIR sensor to shut off the screen when required. To do this. I programmed hte code withing the Config.JS file of the MAgicmirror module and typed in the PIR module. The specific code i added myself woudl be if the PIR does not detect motion after 30 seconds, it would shut off the display using a countdown clock. I've also mounted the screen and Frame on the wall and had to drill out a section of the frame so the cords could actually fit in without sticking out and potentially ruining the look. All I need to do is just glue on the Mirror which would polish it
 <!---For your second milestone, explain what you've worked on since your previous milestone. You can highlight:
 - Technical details of what you've accomplished and how they contribute to the final goal
 - What has been surprising about the project so far
